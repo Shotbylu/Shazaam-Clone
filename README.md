@@ -138,13 +138,6 @@ This application uses SQLite as the default database, but you can switch to Mong
 - [Song recognition using audio fingerprinting](https://hajim.rochester.edu/ece/sites/zduan/teaching/ece472/projects/2019/AudioFingerprinting.pdf)
 - [How does Shazam work - Toptal](https://www.toptal.com/algorithms/shazam-it-music-processing-fingerprinting-and-recognition)
 - [Creating Shazam in Java](https://www.royvanrijn.com/blog/2010/06/creating-shazam-in-java/)
-
-
-## Author :black_nib:
-- Chigozirim Igweamaka
-  - Connect with me on [LinkedIn](https://www.linkedin.com/in/ichigozirim/).
-  - Check out my other [GitHub](https://github.com/cgzirim) projects.
-  - Follow me on [Twitter](https://twitter.com/cgzirim).
  
 ## License :lock:
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
